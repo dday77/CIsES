@@ -1,0 +1,15 @@
+Package: CIsES
+Type: Package
+Title: One-Sample Confidence Intervals
+Version: 0.1.0
+Author: Duane Day
+Maintainer: Duane Day <duane.day@gmailcom>
+Description: This package is designed to simple one-sample
+    confidence intervals for basic statistics courses. There are
+    are 3 types of confidence intervals, the z-interval, the
+    t-Interval, and the 1-prop z-Interval. Each function has been
+    adapted to accept eithe a one-sample data set or statistics as 
+    inputs.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
